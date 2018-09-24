@@ -1,0 +1,53 @@
+table{
+  text-align: center;
+  border: 1px solid black;
+  border-spacing: 0;
+}
+
+th , tr , td{
+  border: 1px solid black;
+  font-family: cursive;
+}
+
+.estilo_Dias{
+  background-color: rgb(160, 195, 201);
+  font-family: cursive;
+}
+
+.estilo_T{
+  background-color: rgb(128, 221, 233);
+}
+
+.estilo_hora{
+  background-color: rgb(232, 203, 190);
+  font-family: inherit;
+}
+
+.estilo_vacio{
+  background-color: rgb(238, 230, 198);
+}
+
+.estilo_SP{
+  background-color: rgb(236, 139, 126);
+}
+
+.estilo_TBD{
+  background-color: rgb(89, 116, 135);
+}
+
+.estilo_PW{
+  background-color: rgb(100, 29, 201);
+}
+
+.estilo_CE{
+  background-color: rgb(87, 154, 70);
+}
+
+.estilo_PPC{
+  background-color: rgb(115, 72, 96);
+}
+
+.estilo_reseso{
+  background-color: rgb(233, 251, 158);
+  font-size: 24px;
+}
